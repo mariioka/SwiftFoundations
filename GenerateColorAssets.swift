@@ -46,4 +46,4 @@ for color in colors {
     try! jsonData.write(to: URL(fileURLWithPath: "\(colorSetFolder)/Contents.json"))
 }
 
-print("Color Assets gerados com sucesso na pasta '\(outputFolder)'")
+print("Cores add à pasta '\(outputFolder)'")
