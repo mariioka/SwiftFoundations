@@ -1,0 +1,74 @@
+[
+  {
+    "name": "fireColor",
+    "color": "#F08030"
+  },
+  {
+    "name": "waterColor",
+    "color": "#6890F0"
+  },
+  {
+    "name": "grassColor",
+    "color": "#78C850"
+  },
+  {
+    "name": "electricColor",
+    "color": "#F8D030"
+  },
+  {
+    "name": "psychicColor",
+    "color": "#F85888"
+  },
+  {
+    "name": "iceColor",
+    "color": "#98D8D8"
+  },
+  {
+    "name": "dragonColor",
+    "color": "#7038F8"
+  },
+  {
+    "name": "darkColor",
+    "color": "#705848"
+  },
+  {
+    "name": "fairyColor",
+    "color": "#EE99AC"
+  },
+  {
+    "name": "normalColor",
+    "color": "#A8A878"
+  },
+  {
+    "name": "fightingColor",
+    "color": "#C03028"
+  },
+  {
+    "name": "flyingColor",
+    "color": "#A890F0"
+  },
+  {
+    "name": "poisonColor",
+    "color": "#A040A0"
+  },
+  {
+    "name": "groundColor",
+    "color": "#E0C068"
+  },
+  {
+    "name": "rockColor",
+    "color": "#B8A038"
+  },
+  {
+    "name": "bugColor",
+    "color": "#A8B820"
+  },
+  {
+    "name": "ghostColor",
+    "color": "#705898"
+  },
+  {
+    "name": "steelColor",
+    "color": "#B8B8D0"
+  }
+]
