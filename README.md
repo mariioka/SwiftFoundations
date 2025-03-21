@@ -1,9 +1,12 @@
 # SwiftFoundations
-apple:
-* color
-* -hex pkmns
-•- como usa
-* estrutura card
-* -id na direita (H{V.lead}{V.trailing})
-cor nos tipos?
-*estatística
+
+- color
+  - hex pkmns OK
+  - como usa OK
+
+- estrutura card
+  - id na direita (H{V.lead}{V.trailing}) 2 - 
+  - cor nos tipos? OK
+
+- estatística
+
