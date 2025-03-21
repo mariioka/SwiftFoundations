@@ -74,6 +74,6 @@ struct PokemonCard: View {
 
 struct PokemonCard_Previews: PreviewProvider {
     static var previews: some View {
-        PokemonCard(pokemon: Pokemon(id: 150, name: "Mewtwo", types: [.psychic], imageName: "mewtwo"))
+        PokemonCard(pokemon: Pokemon(id: 150, name: "Mewtwo", types: [.psychic]))
     }
 }
