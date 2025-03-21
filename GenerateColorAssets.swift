@@ -6,7 +6,7 @@ struct ColorItem: Decodable {
 }
 
 let jsonPath = "./colors.json" 
-let outputFolder = "./Assets" 
+let outputFolder = "./Cores" 
 
 let fileManager = FileManager.default
 try? fileManager.createDirectory(atPath: outputFolder, withIntermediateDirectories: true)
